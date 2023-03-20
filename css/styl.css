@@ -1,0 +1,41 @@
+*{
+    font-family: cursive;
+}
+header{
+    background-image: url(../img/Le_Fantome.0.jpg);
+    background-position:  center center;
+    background-size: cover;
+    height: 70vh;
+}
+img{
+    height: 300px;
+}
+#nav-logo sup{
+    padding-top: 10px;
+    color: crimson;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#nav-logo sub{
+    color: darkblue;
+
+    font-size: 2rem;
+    font-family: cursive;
+}
+#nav{
+    z-index: 9999;
+    padding-top: 1rem;
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+}
+span{
+    color: cadetblue;
+}
+#recpes{
+    color: chocolate;
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: italic;
+}
